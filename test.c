@@ -1,7 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main(){
-	printf("hi\n");
+int main()
+{
+	int ;
+
 
 	return 0;
 }
